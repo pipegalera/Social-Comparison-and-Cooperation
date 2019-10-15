@@ -1,5 +1,7 @@
 # Social Comparison and Cooperation. An Experimental Approach
-This paper proposes an laboratory experiment to investigate the impact of social comparison and fairness in cooperation. I consider a two-person public good game with heterogeneity in the subjects' endowment distribution. Some workers receive homogeneous pay-rate (fair wages), while other workers receive unjustified heterogeneous pay-rates (unfair wages). I proposed an empirical strategy to check plausible hypothesis derived from the literature and from the main social preferences models. 
+This paper proposes an laboratory experiment to investigate the impact of social comparison and fairness in cooperation. I consider a two-person public good game with heterogeneity in the subjects' endowment distribution. 
+
+Some workers receive homogeneous pay-rate (fair wages), while other workers receive unjustified heterogeneous pay-rates (unfair wages). I proposed an empirical strategy to check plausible hypothesis derived from the literature and from the main social preferences models. 
 
 The main testable predictions are that: 
 
